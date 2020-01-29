@@ -37,3 +37,11 @@ body {
     height: 100%;
     transform: translateY(-3px);
 }
+
+.hand {
+    width: 50%;
+    height: 6px;
+    background: black;
+    position: absolute;
+    top: 50%;
+}
